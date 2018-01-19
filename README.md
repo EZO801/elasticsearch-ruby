@@ -89,6 +89,7 @@ Please see their respective READMEs for information and documentation.
 ## Development
 
 [![Build Status](https://travis-ci.org/elastic/elasticsearch-ruby.svg?branch=master)](https://travis-ci.org/elastic/elasticsearch-ruby) [![Code Climate](https://codeclimate.com/github/elastic/elasticsearch-ruby/badges/gpa.svg)](https://codeclimate.com/github/elastic/elasticsearch-ruby)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Felasticsearch-ruby.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Felasticsearch-ruby?ref=badge_shield)
 
 To work on the code, clone and bootstrap the project first:
 
@@ -163,3 +164,6 @@ This software is licensed under the Apache 2 license, quoted below.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Felasticsearch-ruby.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Felasticsearch-ruby?ref=badge_large)
